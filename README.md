@@ -2,9 +2,7 @@
 ## EXPLORING VGG16, VGG19 FOR AUTISM DETECTION IN PEDIATRIC IMAGES
 
 ## About
-Autism Disorder represents a lifelong neurological condition marked by difficulties in social interaction and communication for affected individuals. It is 
-diagnosed at any stage in life It is called “behavioral disease”. The challenges associated with ASD typically begin in childhood and persist into adolescence 
-and adulthood, creating ongoing impacts throughout a individual's life which cannot be cured but can be improved and have implemented the models of Convolutional Neural Network (CNN) to predict and analyze ASD-related issues in individuals across different stages of life, including childhood, adolescence, and  adulthood. Dataset consists of Autistic and Non-Autistic face images of children. The models of CNN (Convolutional Neural Network) for prediction are VGG16 and VGG19. It is giving accuracy of almost 86.333 % and 86.0%
+Autism Disorder represents a lifelong neurological condition marked by difficulties in social interaction and communication for affected individuals. It is diagnosed at any stage in life It is called “behavioral disease”. The challenges associated with ASD typically begin in childhood and persist into adolescence and adulthood, creating ongoing impacts throughout a individual's life which cannot be cured but can be improved and have implemented the models of Convolutional Neural Network (CNN) to predict and analyze ASD-related issues in individuals across different stages of life, including childhood, adolescence, and  adulthood. Dataset consists of Autistic and Non-Autistic face images of children. The models of CNN (Convolutional Neural Network) for prediction are VGG16 and VGG19. It is giving accuracy of almost 86.333 % and 86.0%
 
 ## Features
 - Implements VGG16 and VGG19 models
