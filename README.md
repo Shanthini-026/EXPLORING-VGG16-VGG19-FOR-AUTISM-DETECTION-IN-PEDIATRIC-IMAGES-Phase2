@@ -31,7 +31,7 @@ Autism Disorder represents a lifelong neurological condition marked by difficult
 <!--Give the results and impact as shown below-->
 The Autism Detection prototype enhances detection of Autism in pediatric images using VGG16 and VGG19. The models of CNN (Convolutional Neural Network) for prediction are VGG16 and VGG19. It is giving accuracy of almost 86.333 % and 86.0%
 
-## Articles published
+## For References
 1. Romuald Carette, Mahmoud Elbattah, Gilles Dequen, Jean-Luc Guérin, Federica Cilia, “Visualization of Eye-Tracking Patterns in Autism Spectrum Disorder: Method and Dataset”, 2018 Thirteenth International Conference on Digital Information Management (ICDIM)
 2. M. Elbattah, R. Carette, G. Dequen, J. -L. Guérin and F. Cilia, "Learning Clusters in Autism SpectrumDisorder: Image-Based Clustering of Eye-Tracking Scanpaths with Deep Autoencoder," 2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC).
 
