@@ -1,58 +1,41 @@
-<!--Title of the Project-->
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+
+## EXPLORING VGG16, VGG19 FOR AUTISM DETECTION IN PEDIATRIC IMAGES
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+Autism Disorder represents a lifelong neurological condition marked by difficulties in social interaction and communication for affected individuals. It is 
+diagnosed at any stage in life It is called “behavioral disease”. The challenges associated with ASD typically begin in childhood and persist into adolescence 
+and adulthood, creating ongoing impacts throughout a individual's life which cannot be cured but can be improved and have implemented the models of Convolutional Neural Network (CNN) to predict and analyze ASD-related issues in individuals across different stages of life, including childhood, adolescence, and  adulthood. Dataset consists of Autistic and Non-Autistic face images of children. The models of CNN (Convolutional Neural Network) for prediction are VGG16 and VGG19. It is giving accuracy of almost 86.333 % and 86.0%
 
 ## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
+- Implements VGG16 and VGG19 models
+- A Deep learning based prototype for autism detection.
 - High scalability.
 - Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+- Accuracy, Precision, Recall, Specificity
 
 ## Requirements
 <!--List the requirements of the project as shown below-->
 * Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
+* Development Environment: Python 3.9 or later is necessary for coding the sign language detection system.
+* Deep Learning Frameworks: VGG16,VGG19.
+* Image Processing Libraries: OpenCV is essential for efficient image processing and detection of Autism.
 * IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, for deep learning tasks.
 
 ## System Architecture
-<!--Embed the system architecture diagram as shown below-->
-
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
-
+![image](https://github.com/Shanthini-026/EXPLORING-VGG16-VGG19-FOR-AUTISM-DETECTION-IN-PEDIATRIC-IMAGES-Phase2/assets/99191683/5a50e9c7-7653-4c52-b989-ac22ebcf6dca)
 
 ## Output
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
-
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
-
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
-
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
-
+![image](https://github.com/Shanthini-026/EXPLORING-VGG16-VGG19-FOR-AUTISM-DETECTION-IN-PEDIATRIC-IMAGES-Phase2/assets/99191683/6a929b45-6779-4122-9670-a9d9f0043c4c)
 
 ## Results and Impact
 <!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
-
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+The Autism Detection prototype enhances detection of Autism in pediatric images using VGG16 and VGG19. The models of CNN (Convolutional Neural Network) for prediction are VGG16 and VGG19. It is giving accuracy of almost 86.333 % and 86.0%
 
 ## Articles published
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+1. Romuald Carette, Mahmoud Elbattah, Gilles Dequen, Jean-Luc Guérin, Federica Cilia, “Visualization of Eye-Tracking Patterns in Autism Spectrum Disorder: Method and Dataset”, 2018 Thirteenth International Conference on Digital Information Management (ICDIM)
+2. M. Elbattah, R. Carette, G. Dequen, J. -L. Guérin and F. Cilia, "Learning Clusters in Autism SpectrumDisorder: Image-Based Clustering of Eye-Tracking Scanpaths with Deep Autoencoder," 2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC).
 
 
 
